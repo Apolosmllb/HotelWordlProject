@@ -1,0 +1,308 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Cozmo",
+      "lastname": "Creamen",
+      "gmail": "ccreamen0@mashable.com",
+      "phone": 1715819214,
+      "apiId": "v1"
+    },
+    {
+      "id": 2,
+      "name": "Mariann",
+      "lastname": "Mixture",
+      "gmail": "mmixture1@list-manage.com",
+      "phone": 5388520732,
+      "apiId": "v1"
+    },
+    {
+      "id": 3,
+      "name": "Bobbye",
+      "lastname": "Langstaff",
+      "gmail": "blangstaff2@theatlantic.com",
+      "phone": 5891120597,
+      "apiId": "v1"
+    },
+    {
+      "id": 4,
+      "name": "Stacee",
+      "lastname": "Ferrier",
+      "gmail": "sferrier3@rakuten.co.jp",
+      "phone": 5248695781,
+      "apiId": "v1"
+    },
+    {
+      "id": 5,
+      "name": "Tessie",
+      "lastname": "Averies",
+      "gmail": "taveries4@csmonitor.com",
+      "phone": 4686125599,
+      "apiId": "v1"
+    },
+    {
+      "id": 6,
+      "name": "Bryce",
+      "lastname": "Eger",
+      "gmail": "beger5@desdev.cn",
+      "phone": 2596502401,
+      "apiId": "v1"
+    },
+    {
+      "id": 7,
+      "name": "Val",
+      "lastname": "Marciek",
+      "gmail": "vmarciek6@weather.com",
+      "phone": 6231336439,
+      "apiId": "v1"
+    },
+    {
+      "id": 8,
+      "name": "Ciel",
+      "lastname": "Chard",
+      "gmail": "cchard7@ovh.net",
+      "phone": 1646797344,
+      "apiId": "v1"
+    },
+    {
+      "id": 9,
+      "name": "Stanislaw",
+      "lastname": "Nockolds",
+      "gmail": "snockolds8@prnewswire.com",
+      "phone": 6095554865,
+      "apiId": "v1"
+    },
+    {
+      "id": 10,
+      "name": "Lil",
+      "lastname": "Swan",
+      "gmail": "lswan9@drupal.org",
+      "phone": 7029590181,
+      "apiId": "v1"
+    },
+    {
+      "name": "Miner ",
+      "lastname": "Lozano",
+      "gmail": "minermllb@mail.com",
+      "phone": 9431276487,
+      "id": 11,
+      "apiId": "v1"
+    },
+    {
+      "name": "roberto",
+      "lastname": "espinoza",
+      "gmail": "rober@gmail.com",
+      "phone": 9455556822,
+      "id": 12,
+      "apiId": "v1"
+    },
+    {
+      "name": "Marta ",
+      "lastname": "Nockolds",
+      "gmail": "marta123@gmail.com",
+      "phone": 4568213495,
+      "id": 13,
+      "apiId": "v1"
+    },
+    {
+      "name": "Ricardo",
+      "lastname": "yalico",
+      "gmail": "ricardo@gmail.com",
+      "phone": 942365842,
+      "id": 14,
+      "apiId": "v1"
+    },
+    {
+      "name": "Marcos ",
+      "lastname": "rosario ",
+      "gmail": "rosaio@gmail.com",
+      "phone": 94555613384,
+      "id": 15,
+      "apiId": "v1"
+    }
+  ],
+  "clientes": [
+    {
+      "id": 1,
+      "name": "Cozmo",
+      "lastname": "Creamen",
+      "gmail": "ccreamen0@mashable.com",
+      "phone": 1715819214,
+      "apiId": "v1"
+    },
+    {
+      "id": 2,
+      "name": "Mariann",
+      "lastname": "Mixture",
+      "gmail": "mmixture1@list-manage.com",
+      "phone": 5388520732,
+      "apiId": "v1"
+    },
+    {
+      "id": 3,
+      "name": "Bobbye",
+      "lastname": "Langstaff",
+      "gmail": "blangstaff2@theatlantic.com",
+      "phone": 5891120597,
+      "apiId": "v1"
+    },
+    {
+      "id": 4,
+      "name": "Stacee",
+      "lastname": "Ferrier",
+      "gmail": "sferrier3@rakuten.co.jp",
+      "phone": 5248695781,
+      "apiId": "v1"
+    },
+    {
+      "id": 5,
+      "name": "Tessie",
+      "lastname": "Averies",
+      "gmail": "taveries4@csmonitor.com",
+      "phone": 4686125599,
+      "apiId": "v1"
+    },
+    {
+      "id": 6,
+      "name": "Bryce",
+      "lastname": "Eger",
+      "gmail": "beger5@desdev.cn",
+      "phone": 2596502401,
+      "apiId": "v1"
+    },
+    {
+      "id": 7,
+      "name": "Val",
+      "lastname": "Marciek",
+      "gmail": "vmarciek6@weather.com",
+      "phone": 6231336439,
+      "apiId": "v1"
+    },
+    {
+      "id": 8,
+      "name": "Ciel",
+      "lastname": "Chard",
+      "gmail": "cchard7@ovh.net",
+      "phone": 1646797344,
+      "apiId": "v1"
+    },
+    {
+      "id": 9,
+      "name": "Stanislaw",
+      "lastname": "Nockolds",
+      "gmail": "snockolds8@prnewswire.com",
+      "phone": 6095554865,
+      "apiId": "v1"
+    },
+    {
+      "id": 10,
+      "name": "Lil",
+      "lastname": "Swan",
+      "gmail": "lswan9@drupal.org",
+      "phone": 7029590181,
+      "apiId": "v1"
+    },
+    {
+      "name": "Miner ",
+      "lastname": "Lozano",
+      "gmail": "minermllb@mail.com",
+      "phone": 9431276487,
+      "id": 11,
+      "apiId": "v1"
+    },
+    {
+      "name": "roberto",
+      "lastname": "espinoza",
+      "gmail": "rober@gmail.com",
+      "phone": 9455556822,
+      "id": 12,
+      "apiId": "v1"
+    },
+    {
+      "name": "Marta ",
+      "lastname": "Nockolds",
+      "gmail": "marta123@gmail.com",
+      "phone": 4568213495,
+      "id": 13,
+      "apiId": "v1"
+    }
+  ],
+  "hotels": [
+    {
+      "id": 1,
+      "image": "https://images.unsplash.com/photo-1625244724120-1fd1d34d00f6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "title": "Fix San",
+      "price": 272.90,
+      "description": "Other disorders of thyroid"
+
+    },
+    {
+      "id": 2,
+      "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "title": "Fix San",
+      "price": 272.90,
+      "description": "Other disorders of thyroid"
+
+    },
+    {
+      "id": 3,
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "title": "Fix San",
+      "price": 272.90,
+      "description": "Other disorders of thyroid"
+
+    },
+    {
+      "id": 4,
+      "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+      "title": "Fix San",
+      "price": "272.90",
+      "description": "Other disorders of thyroid"
+    },
+    {
+      "id": 5,
+      "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+      "title": "Fix San",
+      "price": "272.90",
+      "description": "Other disorders of thyroid"
+    },
+    {
+      "id": 6,
+      "image": "https://images.unsplash.com/photo-1606046604972-77cc76aee944?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80",
+      "title": "Fix San",
+      "price": "272.90",
+      "description": "Other disorders of thyroid"
+    },
+    {
+      "id": 7,
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "title": "Fix San",
+      "price": 272.9,
+      "description": "Other disorders of thyroid"
+    },
+    {
+      "id": 8,
+      "image": "https://images.unsplash.com/photo-1596436889106-be35e843f974?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "title": "Fix San",
+      "price": 272.90,
+      "description": "Other disorders of thyroid"
+
+    },
+    {
+      "id": 9,
+      "image": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80",
+      "title": "Fix San",
+      "price": 272.90,
+      "description": "Other disorders of thyroid"
+
+    },
+    {
+      "id": 10,
+      "image": "https://images.unsplash.com/photo-1616064959886-a500e5c38e1e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "title": "Fix San",
+      "price": 272.90,
+      "description": "Other disorders of thyroid"
+
+    }
+  ]
+}
