@@ -43,6 +43,8 @@ import{ MatRadioModule} from "@angular/material/radio";
 import { MatCheckboxModule } from '@angular/material/checkbox';
 import { MatSelectModule } from '@angular/material/select';
 import { LayoutModule } from '@angular/cdk/layout';
+import { ScheduleComponent } from './pages/components/hotelmanager/schedule/schedule.component';
+import {FullCalendarModule} from "primeng/fullcalendar";
 
 
 
@@ -61,6 +63,7 @@ import { LayoutModule } from '@angular/cdk/layout';
     HotelsComponent,
     HomeGComponent,
     NavbarGComponent,
+    ScheduleComponent,
 
 
 
@@ -90,7 +93,8 @@ import { LayoutModule } from '@angular/cdk/layout';
     MatRadioModule,
     MatCheckboxModule,
     MatSelectModule,
-    LayoutModule
+    LayoutModule,
+    FullCalendarModule
 
 
   ],

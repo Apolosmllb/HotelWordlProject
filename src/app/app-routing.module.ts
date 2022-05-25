@@ -10,6 +10,7 @@ import {InventoryComponent} from "./pages/components/hotelmanager/inventory/inve
 import {RegisterclientsComponent} from "./pages/components/hotelmanager/registerclients/registerclients.component";
 import {HotelsComponent} from "./pages/components/hotelguest/hoteles/hotels.component";
 import {HomeGComponent} from "./pages/components/hotelguest/home-g/home-g.component";
+import {ScheduleComponent} from "./pages/components/hotelmanager/schedule/schedule.component";
 
 
 
@@ -25,6 +26,7 @@ const routes: Routes = [
   { path: 'registerclients',component:RegisterclientsComponent},
   { path: 'hotels',component:HotelsComponent},
   { path: 'home-g',component:HomeGComponent},
+  { path: 'schedule',component:ScheduleComponent},
 
 ];
 
