@@ -5,3 +5,5 @@ npm node dependencies
 json-server server/db.json --watch db.json
 # Para compilar el proyecto
 ng serve -o
+# Para compilar Socket.io
+node index.js
