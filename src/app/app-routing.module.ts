@@ -11,7 +11,8 @@ import {RegisterclientsComponent} from "./pages/components/hotelmanager/register
 import {HotelsComponent} from "./pages/components/hotelguest/hoteles/hotels.component";
 import {HomeGComponent} from "./pages/components/hotelguest/home-g/home-g.component";
 import {ScheduleComponent} from "./pages/components/hotelmanager/schedule/schedule.component";
-
+import {ChatComponent} from "./pages/components/chat/chat.component";
+import{ChatGComponent} from "./pages/components/chat-g/chat-g.component";
 
 
 const routes: Routes = [
@@ -27,7 +28,8 @@ const routes: Routes = [
   { path: 'hotels',component:HotelsComponent},
   { path: 'home-g',component:HomeGComponent},
   { path: 'schedule',component:ScheduleComponent},
-
+  { path: 'chat',component:ChatComponent},
+  {path:'chat-g',component:ChatGComponent}
 ];
 
 @NgModule({

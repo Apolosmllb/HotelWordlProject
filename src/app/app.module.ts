@@ -45,6 +45,8 @@ import { MatSelectModule } from '@angular/material/select';
 import { LayoutModule } from '@angular/cdk/layout';
 import { ScheduleComponent } from './pages/components/hotelmanager/schedule/schedule.component';
 import {FullCalendarModule} from "primeng/fullcalendar";
+import { ChatComponent } from './pages/components/chat/chat.component';
+import { ChatGComponent } from './pages/components/chat-g/chat-g.component';
 
 
 
@@ -64,6 +66,8 @@ import {FullCalendarModule} from "primeng/fullcalendar";
     HomeGComponent,
     NavbarGComponent,
     ScheduleComponent,
+    ChatComponent,
+    ChatGComponent,
 
 
 

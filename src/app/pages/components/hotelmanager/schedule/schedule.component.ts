@@ -7,7 +7,7 @@ import esLocale from '@fullcalendar/core/locales/es';
 
 import "node_modules/primeng/resources/primeng.min.css"
 import "node_modules/primeng/resources/themes/nova/theme.css"
-import  "node_modules/primeicons/primeicons.css"
+import "node_modules/primeicons/primeicons.css"
 import "node_modules/@fullcalendar/core/main.min.css"
 import "node_modules/@fullcalendar/daygrid/main.min.css"
 import "node_modules/@fullcalendar/timegrid/main.min.css"
