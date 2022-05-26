@@ -38,6 +38,10 @@ export class HotelsComponent implements OnInit {
     })
   }
 
+  getByID(){
+
+  }
+
 
   ngOnInit() {
     this.getAllHotels();

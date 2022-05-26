@@ -10,9 +10,13 @@ import {InventoryComponent} from "./pages/components/hotelmanager/inventory/inve
 import {RegisterclientsComponent} from "./pages/components/hotelmanager/registerclients/registerclients.component";
 import {HotelsComponent} from "./pages/components/hotelguest/hoteles/hotels.component";
 import {HomeGComponent} from "./pages/components/hotelguest/home-g/home-g.component";
+<<<<<<< Updated upstream
 import {ScheduleComponent} from "./pages/components/hotelmanager/schedule/schedule.component";
 import {ChatComponent} from "./pages/components/chat/chat.component";
 import{ChatGComponent} from "./pages/components/chat-g/chat-g.component";
+=======
+import {HoteldescriptionComponent} from "./pages/components/hotelguest/hoteldescription/hoteldescription.component";
+>>>>>>> Stashed changes
 
 
 const routes: Routes = [
@@ -27,9 +31,14 @@ const routes: Routes = [
   { path: 'registerclients',component:RegisterclientsComponent},
   { path: 'hotels',component:HotelsComponent},
   { path: 'home-g',component:HomeGComponent},
+<<<<<<< Updated upstream
   { path: 'schedule',component:ScheduleComponent},
   { path: 'chat',component:ChatComponent},
   {path:'chat-g',component:ChatGComponent}
+=======
+  { path: 'hoteldescription',component:HoteldescriptionComponent}
+
+>>>>>>> Stashed changes
 ];
 
 @NgModule({
