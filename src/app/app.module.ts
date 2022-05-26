@@ -43,14 +43,12 @@ import{ MatRadioModule} from "@angular/material/radio";
 import { MatCheckboxModule } from '@angular/material/checkbox';
 import { MatSelectModule } from '@angular/material/select';
 import { LayoutModule } from '@angular/cdk/layout';
-<<<<<<< Updated upstream
 import { ScheduleComponent } from './pages/components/hotelmanager/schedule/schedule.component';
 import {FullCalendarModule} from "primeng/fullcalendar";
 import { ChatComponent } from './pages/components/chat/chat.component';
 import { ChatGComponent } from './pages/components/chat-g/chat-g.component';
-=======
 import { HoteldescriptionComponent } from './pages/components/hotelguest/hoteldescription/hoteldescription.component';
->>>>>>> Stashed changes
+
 
 
 
@@ -69,15 +67,10 @@ import { HoteldescriptionComponent } from './pages/components/hotelguest/hotelde
     HotelsComponent,
     HomeGComponent,
     NavbarGComponent,
-<<<<<<< Updated upstream
     ScheduleComponent,
     ChatComponent,
     ChatGComponent,
-=======
     HoteldescriptionComponent,
->>>>>>> Stashed changes
-
-
 
   ],
   imports: [
