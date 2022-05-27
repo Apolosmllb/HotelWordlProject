@@ -231,64 +231,42 @@
     {
       "id": 1,
       "image": "https://images.unsplash.com/photo-1625244724120-1fd1d34d00f6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-<<<<<<< Updated upstream
       "title": "DoubleTree",
       "price": 272.90,
-=======
-      "title": "Fix San",
-      "price": 9.3,
->>>>>>> Stashed changes
       "description": "Other disorders of thyroid"
 
     },
     {
       "id": 2,
       "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
-<<<<<<< Updated upstream
       "title": "Baobab ",
       "price": 272.90,
-=======
-      "title": "Fix San",
-      "price": 9.4,
->>>>>>> Stashed changes
       "description": "Other disorders of thyroid"
 
     },
     {
       "id": 3,
       "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
-<<<<<<< Updated upstream
       "title": "The Mint",
       "price": 272.90,
-=======
-      "title": "Fix San",
-      "price": 8.7,
->>>>>>> Stashed changes
       "description": "Other disorders of thyroid"
 
     },
     {
       "id": 4,
       "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
-<<<<<<< Updated upstream
-      "title": "Oasis ",
-      "price": 272.90,
-=======
       "title": "Fix San",
       "price": 7.5,
->>>>>>> Stashed changes
+
       "description": "Other disorders of thyroid"
     },
     {
       "id": 5,
       "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
-<<<<<<< Updated upstream
       "title": "Ayre ",
       "price": 272.90,
-=======
       "title": "Fix San",
       "price": 9.7,
->>>>>>> Stashed changes
       "description": "Other disorders of thyroid"
     },
     {
@@ -301,51 +279,31 @@
     {
       "id": 7,
       "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
-<<<<<<< Updated upstream
       "title": "Amanvari",
       "price": 272.9,
-=======
-      "title": "Fix San",
-      "price": 4.5,
->>>>>>> Stashed changes
       "description": "Other disorders of thyroid"
     },
     {
       "id": 8,
       "image": "https://images.unsplash.com/photo-1596436889106-be35e843f974?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
-<<<<<<< Updated upstream
       "title": "Mousai",
       "price": 272.90,
-=======
-      "title": "Fix San",
-      "price": 5.5,
->>>>>>> Stashed changes
       "description": "Other disorders of thyroid"
 
     },
     {
       "id": 9,
       "image": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80",
-<<<<<<< Updated upstream
       "title": "Anantara",
       "price": 272.90,
-=======
-      "title": "Fix San",
-      "price": 8.6,
->>>>>>> Stashed changes
       "description": "Other disorders of thyroid"
 
     },
     {
       "id": 10,
       "image": "https://images.unsplash.com/photo-1616064959886-a500e5c38e1e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
-<<<<<<< Updated upstream
       "title": "Tótem",
       "price": 272.90,
-=======
-      "title": "Fix San",
-      "price": 7.0,
->>>>>>> Stashed changes
       "description": "Other disorders of thyroid"
 
     }
