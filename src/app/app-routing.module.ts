@@ -14,12 +14,15 @@ import {ScheduleComponent} from "./pages/components/hotelmanager/schedule/schedu
 import {ChatComponent} from "./pages/components/chat/chat.component";
 import{ChatGComponent} from "./pages/components/chat-g/chat-g.component";
 import {HoteldescriptionComponent} from "./pages/components/hotelguest/hoteldescription/hoteldescription.component";
+import {RegisterComponent} from "./pages/components/register/register.component";
+import {ProductComponent} from "./pages/components/items/product/product.component";
 
 
 
 const routes: Routes = [
   { path: '', redirectTo: '/login', pathMatch: 'full' },
   { path: 'login', component:LoginComponent },
+  {path: 'register', component: RegisterComponent},
   { path: 'hotelmanager',component:HomeComponent},
   { path: 'rooms',component:RoomsComponent},
   { path: 'home',component:HomeComponent},
@@ -32,8 +35,8 @@ const routes: Routes = [
   { path: 'schedule',component:ScheduleComponent},
   { path: 'chat',component:ChatComponent},
   {path:'chat-g',component:ChatGComponent},
-  { path: 'hoteldescription',component:HoteldescriptionComponent}
-
+  { path: 'hoteldescription',component:HoteldescriptionComponent},
+  { path: 'products', component: ProductComponent }
 ];
 
 @NgModule({

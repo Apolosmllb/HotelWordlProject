@@ -1,0 +1,24 @@
+.container-card{
+  background-color: white;
+  width:400px;
+  height:90%;
+  margin:auto;
+  padding:2vw;
+  border-radius: 1%;
+  text-align: center;
+}
+.container-card mat-form-field{
+  margin:auto;
+  width:100%;
+  margin-top: 5px;
+
+}
+
+.section-register{
+  width: 100%;
+  height: 100%;
+  background-color: rgba(217, 217, 218, 0.71);
+  display:block;
+  padding-top: 1vw;
+
+}

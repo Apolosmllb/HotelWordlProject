@@ -1,3 +1,41 @@
+<section class="section-login">
+
+  <div class="login-wrapper">
+    <mat-card class="box">
+      <div class="login">
+        <img [src]="logo" alt="" width="50%" height="80%">
+        <h1 class="h3 mb-3 fw-normal">Login</h1>
+      </div>
+      <mat-radio-group [(ngModel)]="typeUserClient" class="TypeCurrentUser-Card">
+        <mat-radio-button class="point-choose" value="HotelGuest">Hotel Guest &nbsp;</mat-radio-button>
+        <mat-radio-button class="point-choose" value="HotelManager">Hotel Manager</mat-radio-button>
+      </mat-radio-group>
+
+      <form [formGroup]="loginForm" class="example-form" (ngSubmit)="login()">
+        <mat-card-content>
+
+          <mat-form-field class="example-full-width">
+            <input [formControlName]="'email'" matInput placeholder="Correo" autocomplete="off">
+          </mat-form-field>
+
+          <mat-form-field class="example-full-width">
+            <input [formControlName]="'password'" matInput placeholder="Password" autocomplete="off"  [type]="show ? 'text' : 'password'" >
+
+          </mat-form-field>
+
+        </mat-card-content>
+
+
+        <button mat-raised-button color="primary" class="btn-block" type="submit">&nbsp;Log in&nbsp;</button>&nbsp;
+        <button mat-raised-button color="primary" class="btn-block" [routerLink]="'/register'">sing up</button>
+      </form>
+    </mat-card>
+  </div>
+
+</section>
+
+
+<!--
 <div class="body">
 
   <div class="login">
@@ -17,3 +55,4 @@
     <button mat-raised-button mat-button color="primary" class="ancho button" [routerLink]="'/home-g'">Hotel Guest</button>
   </div>
 </div>
+-->

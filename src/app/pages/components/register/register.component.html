@@ -1,0 +1,59 @@
+<section class="section-register">
+
+  <form [formGroup]="signupForm" class="container-card" (ngSubmit)="signUp()">
+    <mat-radio-group [(ngModel)]="typeOfUser">
+      <br>
+      <mat-radio-button class="point-choose" value="HotelGuest">
+        Hotel Guest &nbsp; &nbsp;
+      </mat-radio-button>
+      <mat-radio-button class="point-choose" value="HotelManager">
+        Hotel Manager
+      </mat-radio-button>
+    </mat-radio-group>
+    <br><br>
+    <mat-form-field appearance="fill">
+      <mat-label>Nombre</mat-label>
+      <input [formControlName]="'name'" matInput placeholder="Name" autocomplete="off" >
+      <mat-hint>completar su nombre</mat-hint>
+    </mat-form-field>
+    <br>
+    <mat-form-field appearance="fill">
+      <mat-label>Apellidos</mat-label>
+      <input [formControlName]="'lastName'" matInput placeholder="ambos apellidos" autocomplete="off" >
+      <mat-hint>Completar apellidos</mat-hint>
+    </mat-form-field>
+    <br>
+    <mat-form-field appearance="fill">
+      <mat-label>Edad</mat-label>
+      <input [formControlName]="'years'" matInput placeholder="mayor de 18" autocomplete="off" >
+      <mat-hint>Completar edad</mat-hint>
+    </mat-form-field>
+    <br>
+    <mat-form-field appearance="fill">
+      <mat-label>Email</mat-label>
+      <input [formControlName]="'email'" matInput placeholder="example@outlook.es" autocomplete="off" >
+      <mat-hint>complete su Email</mat-hint>
+    </mat-form-field>
+    <br>
+    <mat-form-field appearance="fill">
+      <mat-label>Numero</mat-label>
+      <input [formControlName]="'phone'" matInput placeholder="nueve digitos" autocomplete="off" >
+      <mat-hint>Numero de telefono/celular</mat-hint>
+    </mat-form-field>
+    <br>
+    <mat-form-field appearance="fill">
+      <mat-label>Contraseña</mat-label>
+      <input [formControlName]="'password'" matInput placeholder="combinacion numero y letras" autocomplete="off" >
+      <mat-hint>Coloque una contraseña</mat-hint>
+    </mat-form-field>
+    <br><br><br>
+    <button mat-raised-button color="primary" class="btn-block" [routerLink]="'/login'">Create</button>
+    &nbsp;
+    <button mat-raised-button color="primary" class="btn-block" [routerLink]="'/login'">Cancel</button>
+    <br>
+
+  </form>
+
+
+</section>
+

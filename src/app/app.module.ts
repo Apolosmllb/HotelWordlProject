@@ -48,6 +48,11 @@ import {FullCalendarModule} from "primeng/fullcalendar";
 import { ChatComponent } from './pages/components/chat/chat.component';
 import { ChatGComponent } from './pages/components/chat-g/chat-g.component';
 import { HoteldescriptionComponent } from './pages/components/hotelguest/hoteldescription/hoteldescription.component';
+import { RegisterComponent } from './pages/components/register/register.component';
+import { ProductListComponent } from './pages/components/items/product-list/product-list.component';
+import { ProductComponent } from './pages/components/items/product/product.component';
+import { CartComponent } from './pages/components/items/cart/cart.component';
+import { CreateProductComponent } from './pages/components/items/create-product/create-product.component';
 
 
 
@@ -71,6 +76,11 @@ import { HoteldescriptionComponent } from './pages/components/hotelguest/hotelde
     ChatComponent,
     ChatGComponent,
     HoteldescriptionComponent,
+    RegisterComponent,
+    ProductListComponent,
+    ProductComponent,
+    CartComponent,
+    CreateProductComponent,
 
   ],
   imports: [
@@ -99,7 +109,8 @@ import { HoteldescriptionComponent } from './pages/components/hotelguest/hotelde
     MatCheckboxModule,
     MatSelectModule,
     LayoutModule,
-    FullCalendarModule
+    FullCalendarModule,
+
 
 
   ],
